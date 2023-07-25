@@ -1,0 +1,4 @@
+pytube
+google-api-python-client
+tqdm
+colorama
