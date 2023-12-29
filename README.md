@@ -33,3 +33,5 @@ This Python script provides a simple command-line interface for downloading YouT
 
 ## Note:
 - This script assumes that you have the necessary rights to download and use the content as per YouTube's terms of service.
+
+## Showcase:
