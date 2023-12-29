@@ -35,3 +35,8 @@ This Python script provides a simple command-line interface for downloading YouT
 - This script assumes that you have the necessary rights to download and use the content as per YouTube's terms of service.
 
 ## Showcase:
+<p align="center">
+  <a href="https://youtu.be/pfns9Jn8uMo">
+    <img src="https://github.com/DavldMA/Eazy-Youtube-Downloader/blob/a8044af7cc9836a49f97c8077ee709c29df15ee2/images/img.jpg" alt="Watch the video">
+  </a>
+</p>
