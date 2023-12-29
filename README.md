@@ -2,17 +2,8 @@
 
 This Python script provides a simple command-line interface for downloading YouTube videos and playlists as either audio, video, or both. The script utilizes the `pytube` library for interacting with YouTube, and it offers the following features:
 
-- **Download Options:**
-  - Download videos as audio-only.
-  - Download videos as video.
-  - Download both audio and video simultaneously.
-  - Close the program.
-
-- **User Interface:**
-  - Interactive menu with colorful console output using the `colorama` library.
-  - Clear screen functionality for a clean display.
-
 - **Features:**
+  - Supports both video or audio download options.
   - Supports both single YouTube video and playlist links.
   - Displays information about the video, such as title, views, and duration.
   - Progress bar with download status using `tqdm`.
