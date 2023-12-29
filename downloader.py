@@ -21,6 +21,7 @@ def download(url, isAudio=False):
             zipFiles(currentDirectory + "/temp/audioTemp/", currentDirectory + "/download/audios.zip")
         else:
             zipFiles(currentDirectory + "/temp/videoTemp/", currentDirectory + "/download/videos.zip")
+        os.system('cls' if os.name == 'nt' else 'clear')
     except Exception as e:
         print(f"{Fore.RED}[-] Error: {e}{Style.RESET_ALL}")
 
@@ -40,7 +41,6 @@ def downloadSingle(url, isAudio=False):
     else:
         youtubeDonwloader = youtube.streams.get_highest_resolution()
         downloadWithProgress(youtubeDonwloader, currentDirectory + "/temp/videoTemp/", generateSafeFilename(youtube.title) + ".mp4")
-    os.system('cls' if os.name == 'nt' else 'clear')
 
 def downloadWithProgress(stream, destination, filename):
     file_path = os.path.join(destination, filename)
