@@ -36,8 +36,9 @@ This Python script provides a simple command-line interface for downloading YouT
 
 ## Showcase:
 <p align="center">
-  <a href="https://youtu.be/" target="_blank">
+  <a href="https://youtu.be/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/DavldMA/Eazy-Youtube-Downloader/blob/c2c7348c5e7381d288c4fa88b87bb66ae62295c2/images/img.jpg" alt="Watch the video">
   </a>
 </p>
+
 
