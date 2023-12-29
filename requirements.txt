@@ -1,4 +1,4 @@
 pytube
-google-api-python-client
-tqdm
 colorama
+unidecode
+tqdm
