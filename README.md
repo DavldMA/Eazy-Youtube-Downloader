@@ -13,8 +13,8 @@ This Python script provides a simple command-line interface for downloading YouT
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/DavldMA/Eazy-Youtube-Downloader.git
+   cd Eazy-Youtube-Downloader
    ```
 
 2. Install the required dependencies using `pip`:
